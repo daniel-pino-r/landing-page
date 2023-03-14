@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(32, 182, 125, 0.65);
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    color: black;
+}
